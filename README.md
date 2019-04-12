@@ -12,7 +12,7 @@ Function requires:
 * A string containing the JWT
 * A string containing the url of the JWKS
 * A string containing the algorithm used to sign the JWT (e.g: 'rs256')
-Returns a the unsigned JWT or an error.
+Returns the unsigned JWT or an error.
 
 ```
 (ns jwt-verify-jwks.test

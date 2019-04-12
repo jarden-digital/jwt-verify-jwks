@@ -5,8 +5,7 @@
             [clj-crypto.core :as crypto]
             [clj-http.client :as client]
             [clojure.string :as str]
-            [compojure.core :refer :all]
-            [org.httpkit.server :refer [run-server]]))
+            [compojure.core :refer :all]))
 
 
 (defn- extract-jwt

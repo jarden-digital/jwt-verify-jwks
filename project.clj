@@ -1,4 +1,4 @@
-(defproject jwt-verify-jwks "1.0.0"
+(defproject jwt-verify-jwks "1.0.1"
   :description "Validate a JWT based on a JWKS url"
   :url "https://github.com/fnzc/jwt-verify-jwks"
   :author "Jeremy Farnault"
@@ -9,7 +9,6 @@
                  [clj-crypto "1.0.2" :exclusions [org.bouncycastle/bcprov-jdk15on]]
                  [clj-http "3.9.1"]
                  [compojure "1.6.0"]
-                 [http-kit "2.2.0"]
                  [org.clojure/clojure "1.8.0"]]
   :target-path "target/%s"
   :signing {:gpg-key "02EEBEC3BBA039DDBE31A35C85759108682528DE"}
