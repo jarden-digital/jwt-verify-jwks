@@ -12,7 +12,7 @@ Function requires:
 * A string containing the JWT
 * A string containing the url of the JWKS
 * A string containing the algorithm used to sign the JWT (e.g: 'rs256')
-Returns the unsigned JWT or an error.
+Returns a map containing the unsigned JWT or `:error`.
 
 ```
 (ns jwt-verify-jwks.test
@@ -31,7 +31,7 @@ Returns the unsigned JWT or an error.
        :picture "https://xxx.com/xxx.png",
        :iat 1111111111}
 
-;; "Error with public key: Token is expired (1111111111)"
+;; {:error "Error with public key: Token is expired (1111111111)}"
 ```
 
 ## Supported algorithms

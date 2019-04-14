@@ -40,7 +40,7 @@
         {:headers   (json/decode (base64-decode headers))
          :payload   (json/decode (base64-decode payload))
          :signature signature}))
-    (catch Exception e (str "Error decoding JWT: " (.getMessage e)))))
+    (catch Exception e {:error (str "Error decoding JWT: " (.getMessage e))})))
 
 
 (defn- validate-jwt
@@ -51,7 +51,7 @@
           public-key (keys/jwk->public-key pem)]
       (when (keys/public-key? public-key)
         (jwt/unsign jwt public-key {:alg (keyword alg)})))
-    (catch Exception e (str "Error with public key: " (.getMessage e)))))
+    (catch Exception e {:error (str "Error with public key: " (.getMessage e))})))
 
 
 (defn jwt-validate-jwks
