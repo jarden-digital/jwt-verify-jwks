@@ -1,4 +1,4 @@
-(defproject jwt-verify-jwks "1.0.1"
+(defproject jwt-verify-jwks "1.0.2"
   :description "Validate a JWT based on a JWKS url"
   :url "https://github.com/fnzc/jwt-verify-jwks"
   :author "Jeremy Farnault"
