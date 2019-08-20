@@ -2,48 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a58e8afb-5630-44c6-bf93-4005cb8b0240" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__buddy_buddy_core_1_6_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__buddy_buddy_sign_3_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__cider_cider_nrepl_0_21_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__clj_http_3_10_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__org_clojure_core_specs_alpha_0_2_44.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__org_clojure_spec_alpha_0_2_176.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Leiningen__buddy_buddy_core_1_5_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Leiningen__buddy_buddy_sign_3_0_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Leiningen__cheshire_5_8_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__cheshire_5_8_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Leiningen__clj_http_3_9_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Leiningen__clj_time_0_11_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Leiningen__clout_2_1_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Leiningen__com_fasterxml_jackson_core_jackson_core_2_9_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__com_fasterxml_jackson_core_jackson_core_2_9_6.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Leiningen__com_fasterxml_jackson_dataformat_jackson_dataformat_cbor_2_9_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__com_fasterxml_jackson_dataformat_jackson_dataformat_cbor_2_9_6.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Leiningen__com_fasterxml_jackson_dataformat_jackson_dataformat_smile_2_9_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__com_fasterxml_jackson_dataformat_jackson_dataformat_smile_2_9_6.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Leiningen__commons_codec_1_11.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__commons_codec_1_12.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Leiningen__commons_fileupload_1_3_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Leiningen__compojure_1_6_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Leiningen__crypto_equality_1_0_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Leiningen__crypto_random_1_2_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Leiningen__instaparse_1_4_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Leiningen__joda_time_2_8_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Leiningen__medley_1_0_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Leiningen__org_apache_httpcomponents_httpasyncclient_4_1_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__org_apache_httpcomponents_httpasyncclient_4_1_4.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Leiningen__org_apache_httpcomponents_httpclient_4_5_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__org_apache_httpcomponents_httpclient_4_5_8.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Leiningen__org_apache_httpcomponents_httpclient_cache_4_5_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__org_apache_httpcomponents_httpclient_cache_4_5_8.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Leiningen__org_apache_httpcomponents_httpcore_4_4_9.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__org_apache_httpcomponents_httpcore_4_4_11.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Leiningen__org_apache_httpcomponents_httpcore_nio_4_4_6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__org_apache_httpcomponents_httpcore_nio_4_4_10.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Leiningen__org_apache_httpcomponents_httpmime_4_5_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__org_apache_httpcomponents_httpmime_4_5_8.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Leiningen__org_bouncycastle_bcpkix_jdk15on_1_59.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__org_bouncycastle_bcpkix_jdk15on_1_62.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Leiningen__org_bouncycastle_bcprov_jdk15on_1_59.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__org_bouncycastle_bcprov_jdk15on_1_62.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Leiningen__org_clojure_clojure_1_8_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__org_clojure_clojure_1_10_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Leiningen__org_clojure_tools_macro_0_1_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Leiningen__ring_ring_codec_1_0_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Leiningen__ring_ring_core_1_6_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jwt-verify-jwks.iml" beforeDir="false" afterPath="$PROJECT_DIR$/jwt-verify-jwks.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project.clj" beforeDir="false" afterPath="$PROJECT_DIR$/project.clj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jwt_verify_jwks/core.clj" beforeDir="false" afterPath="$PROJECT_DIR$/src/jwt_verify_jwks/core.clj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -58,20 +17,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/project.clj">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="420">
-              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/jwt_verify_jwks/core.clj">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="27" selection-start-line="27" selection-end-line="27" />
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
             </state>
           </provider>
         </entry>
@@ -109,6 +59,24 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/jwt_verify_jwks/core.clj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="343">
+              <caret line="49" column="46" lean-forward="true" selection-start-line="49" selection-start-column="46" selection-end-line="49" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="FindInProjectRecents">
@@ -127,6 +95,7 @@
         <option value="$PROJECT_DIR$/CHANGELOG.md" />
         <option value="$PROJECT_DIR$/src/jwt_verify_jwks/core.clj" />
         <option value="$PROJECT_DIR$/project.clj" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -148,44 +117,6 @@
             <path>
               <item name="jwt-verify-jwks" type="b2602c69:ProjectViewProjectNode" />
               <item name="jwt-verify-jwks" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jwt-verify-jwks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jwt-verify-jwks" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jwt-verify-jwks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jwt-verify-jwks" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="jwt_verify_jwks" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jwt-verify-jwks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jwt-verify-jwks" type="462c0819:PsiDirectoryNode" />
-              <item name="doc" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jwt-verify-jwks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jwt-verify-jwks" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jwt-verify-jwks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jwt-verify-jwks" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="uberjar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jwt-verify-jwks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jwt-verify-jwks" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jwt-verify-jwks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jwt-verify-jwks" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="jwt_verify_jwks" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -210,7 +141,7 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="http.proxy" />
   </component>
-  <component name="ReplState" timestamp="1566266905857">{:repl-history {:ide [], :local [{:command &quot;(jwt-validate-jwks \&quot;eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IlJrSXpNRUZCUVRrMU1qbERNRFV4UWpZeE5qWTFPVEpCT0RBeVFVWXdSVGswUmtFNVF6SkZRdyJ9.eyJuaWNrbmFtZSI6ImFraW5vbmlrdSIsIm5hbWUiOiJha2lub25pa3VAZ21haWwuY29tIiwicGljdHVyZSI6Imh0dHBzOi8vcy5ncmF2YXRhci5jb20vYXZhdGFyLzgwMDFhZGZkMWNkYzRlOGE3NGI2Yzg4YzM0OWFmMTAyP3M9NDgwJnI9cGcmZD1odHRwcyUzQSUyRiUyRmNkbi5hdXRoMC5jb20lMkZhdmF0YXJzJTJGYWsucG5nIiwidXBkYXRlZF9hdCI6IjIwMTktMDQtMDlUMDM6MDA6MzQuMjEwWiIsImVtYWlsIjoiYWtpbm9uaWt1QGdtYWlsLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJpc3MiOiJodHRwczovL2ZuemMtdGVzdC5hdS5hdXRoMC5jb20vIiwic3ViIjoiYXV0aDB8NWMwOWY5NzlkZmIwNzI0ZTJiNmZmNzVjIiwiYXVkIjoiSE0yLWV4aWZ6eDVqU3FEOHVZbjYzaTVybW01Mk9HMTUiLCJpYXQiOjE1NTQ3Nzg4MzQsImV4cCI6MTU1NDgxNDgzNH0.TkL8OjaclPu-PpAZSecdY06ZR4VIvvd--CMJEemBgbs_OdFejoe4a0sfb3PdHjfs6EMbe0qFCnfZ3Ugy5ytASEkH2jZrTuZoSCmvXZl1DBOPsHb1qxW9lrdpJEDqLLm4Egur2nUDnzOtGy3PRwp_XJGFTUwKPuAjZEnpHexJAblPz69UwZ8lfZwhjEh5hz12HjX-Ob7VreKa-LdhAKpREeBKAMJF-_sormr6DJmkoB9k5CdihjLZqPC5v2ef2ItA8J1EBRsLzcqUfrwrGWOnMIgNQmCS7NBJTqIa-JIGY2_d9wvyWOzyLBwo1_ynqg8GlXiE1RMKAJszVwCbGtsntA\&quot; \&quot;https://fnzc-test.au.auth0.com/.well-known/jwks.json\&quot; \&quot;rs256\&quot;)&quot;, :offset 1128, :ns &quot;jwt-verify-jwks.core&quot;} {:command &quot;:profiles {:uberjar {:aot :all}}\n&quot;, :offset 33, :ns &quot;user&quot;} {:command &quot;(jwt_verify_jwks )&quot;, :offset 18, :ns &quot;user&quot;} {:command &quot;(in-ns '[jwt-verify-jwks.core])&quot;, :offset 31, :ns &quot;user&quot;} {:command &quot;(in-ns '[jwt_verify_jwks.core])&quot;, :offset 31, :ns &quot;user&quot;} {:command &quot;(in-ns 'jwt_verify_jwks.core)&quot;, :offset 29, :ns &quot;user&quot;} {:command &quot;(jwt-validate-jwks {\&quot;eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IlJrSXpNRUZCUVRrMU1qbERNRFV4UWpZeE5qWTFPVEpCT0RBeVFVWXdSVGswUmtFNVF6SkZRdyJ9.eyJuaWNrbmFtZSI6ImFraW5vbmlrdSIsIm5hbWUiOiJha2lub25pa3VAZ21haWwuY29tIiwicGljdHVyZSI6Imh0dHBzOi8vcy5ncmF2YXRhci5jb20vYXZhdGFyLzgwMDFhZGZkMWNkYzRlOGE3NGI2Yzg4YzM0OWFmMTAyP3M9NDgwJnI9cGcmZD1odHRwcyUzQSUyRiUyRmNkbi5hdXRoMC5jb20lMkZhdmF0YXJzJTJGYWsucG5nIiwidXBkYXRlZF9hdCI6IjIwMTktMDQtMTFUMjM6MzE6NDYuMzU5WiIsImVtYWlsIjoiYWtpbm9uaWt1QGdtYWlsLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJpc3MiOiJodHRwczovL2ZuemMtdGVzdC5hdS5hdXRoMC5jb20vIiwic3ViIjoiYXV0aDB8NWMwOWY5NzlkZmIwNzI0ZTJiNmZmNzVjIiwiYXVkIjoiSE0yLWV4aWZ6eDVqU3FEOHVZbjYzaTVybW01Mk9HMTUiLCJpYXQiOjE1NTUwMjU1MDYsImV4cCI6MTU1NTA2MTUwNn0.EeRGfIAD80LT7K2WfnxT6pcMxIaFwJ347ITz5WK6e5x8u1zsUnjDF89BoRLL0PRJDfqa8V7rx-e6oR2-16BlyzHvsZKPY9nL5jbxYx20cxpn1VZqVXJ5ce0Nz6WGZ1QgxZMt-JNpn6rxLHXQr9pEVTslbqvUwztEXIZ69-ntL0DL-2eoP0jphWf_vyVL6vq9-tddl4NHXIt309sMNz92R8324uC2hHvoN4i3cyK3JhGLmFqpQsT7M9QprBTf53JW_YiWwyKyx1JadMLWp3rBrG0o3xd8qSIIJ0LZrwm_q8sS_wg6mZ7gF6VpoGJQSuW2Gl9ZdFDVe5g8v0fJaMfUmA\&quot;} \&quot;https://fnzc-test.au.auth0.com/.well-known/jwks.json\&quot; \&quot;rs256\&quot;)&quot;, :offset 1130, :ns &quot;jwt-verify-jwks.core&quot;} {:command &quot;(in-ns 'jwt-verify-jwks)&quot;, :offset 24, :ns &quot;jwt_verify_jwks.core&quot;} {:command &quot;(in-ns 'jwt-verify-jwks.core)&quot;, :offset 29, :ns &quot;jwt-verify-jwks&quot;} {:command &quot;(jwt-validate-jwks \&quot;eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IlJrSXpNRUZCUVRrMU1qbERNRFV4UWpZeE5qWTFPVEpCT0RBeVFVWXdSVGswUmtFNVF6SkZRdyJ9.eyJuaWNrbmFtZSI6ImFraW5vbmlrdSIsIm5hbWUiOiJha2lub25pa3VAZ21haWwuY29tIiwicGljdHVyZSI6Imh0dHBzOi8vcy5ncmF2YXRhci5jb20vYXZhdGFyLzgwMDFhZGZkMWNkYzRlOGE3NGI2Yzg4YzM0OWFmMTAyP3M9NDgwJnI9cGcmZD1odHRwcyUzQSUyRiUyRmNkbi5hdXRoMC5jb20lMkZhdmF0YXJzJTJGYWsucG5nIiwidXBkYXRlZF9hdCI6IjIwMTktMDQtMTFUMjM6MzE6NDYuMzU5WiIsImVtYWlsIjoiYWtpbm9uaWt1QGdtYWlsLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJpc3MiOiJodHRwczovL2ZuemMtdGVzdC5hdS5hdXRoMC5jb20vIiwic3ViIjoiYXV0aDB8NWMwOWY5NzlkZmIwNzI0ZTJiNmZmNzVjIiwiYXVkIjoiSE0yLWV4aWZ6eDVqU3FEOHVZbjYzaTVybW01Mk9HMTUiLCJpYXQiOjE1NTUwMjU1MDYsImV4cCI6MTU1NTA2MTUwNn0.EeRGfIAD80LT7K2WfnxT6pcMxIaFwJ347ITz5WK6e5x8u1zsUnjDF89BoRLL0PRJDfqa8V7rx-e6oR2-16BlyzHvsZKPY9nL5jbxYx20cxpn1VZqVXJ5ce0Nz6WGZ1QgxZMt-JNpn6rxLHXQr9pEVTslbqvUwztEXIZ69-ntL0DL-2eoP0jphWf_vyVL6vq9-tddl4NHXIt309sMNz92R8324uC2hHvoN4i3cyK3JhGLmFqpQsT7M9QprBTf53JW_YiWwyKyx1JadMLWp3rBrG0o3xd8qSIIJ0LZrwm_q8sS_wg6mZ7gF6VpoGJQSuW2Gl9ZdFDVe5g8v0fJaMfUmA\&quot; \&quot;https://fnzc-test.au.auth0.com/.well-known/jwks.json\&quot; \&quot;rs256\&quot;)&quot;, :offset 1128, :ns &quot;jwt-verify-jwks.core&quot;} {:command &quot;(go)&quot;, :offset 4, :ns &quot;user&quot;} {:command &quot;(jwt-validate-jwks token \&quot;https://jarden.au.auth0.com/\&quot; \&quot;rs256\&quot;)&quot;, :offset 64, :ns &quot;jwt-verify-jwks.core&quot;} {:command &quot;(jwt-validate-jwks token \&quot;https://jarden.au.auth0.com\&quot; \&quot;rs256\&quot;)&quot;, :offset 63, :ns &quot;jwt-verify-jwks.core&quot;} {:command &quot;(jwt-validate-jwks token \&quot;https://jarden.au.auth0.com/.well-known/\&quot; \&quot;rs256\&quot;)&quot;, :offset 76, :ns &quot;jwt-verify-jwks.core&quot;} {:command &quot;(defn- get-jwks\n  [url]\n  (try\n    (let [data (client/get url)\n          body (:body data)]\n      (prn body)\n      (json/parse-string body true))\n    (catch Exception e (str \&quot;Error with the JWKS: \&quot; (.getMessage e)))))&quot;, :offset 217, :ns &quot;jwt-verify-jwks.core&quot;} {:command &quot;(jwt-validate-jwks token \&quot;https://jarden.au.auth0.com/.well-known/jwks.json\&quot; \&quot;rs256\&quot;)&quot;, :offset 85, :ns &quot;jwt-verify-jwks.core&quot;} {:command &quot;(client/get \&quot;https://jarden.au.auth0.com/userinfo\&quot; :headers {\&quot;Authorization\&quot; (str \&quot;Bearer \&quot; token)})&quot;, :offset 100, :ns &quot;jwt-verify-jwks.core&quot;} {:command &quot;(client/get \&quot;https://jarden.au.auth0.com/userinfo\&quot; {:headers {\&quot;Authorization\&quot; (str \&quot;Bearer \&quot; token)}})&quot;, :offset 102, :ns &quot;jwt-verify-jwks.core&quot;} {:command &quot;#(jwt-&gt;user token \&quot;jarden.au.auth0.com\&quot;)&quot;, :offset 40, :ns &quot;jwt-verify-jwks.core&quot;} {:command &quot;(jwt-&gt;user token \&quot;jarden.au.auth0.com\&quot;)&quot;, :offset 39, :ns &quot;jwt-verify-jwks.core&quot;} {:command &quot;(jwt-&gt;auth0-user token \&quot;jarden.au.auth0.com\&quot;)&quot;, :offset 45, :ns &quot;jwt-verify-jwks.core&quot;}], :remote []}}</component>
+  <component name="ReplState" timestamp="1566267100955">{:repl-history {:ide [], :local [{:command &quot;(jwt-validate-jwks \&quot;eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IlJrSXpNRUZCUVRrMU1qbERNRFV4UWpZeE5qWTFPVEpCT0RBeVFVWXdSVGswUmtFNVF6SkZRdyJ9.eyJuaWNrbmFtZSI6ImFraW5vbmlrdSIsIm5hbWUiOiJha2lub25pa3VAZ21haWwuY29tIiwicGljdHVyZSI6Imh0dHBzOi8vcy5ncmF2YXRhci5jb20vYXZhdGFyLzgwMDFhZGZkMWNkYzRlOGE3NGI2Yzg4YzM0OWFmMTAyP3M9NDgwJnI9cGcmZD1odHRwcyUzQSUyRiUyRmNkbi5hdXRoMC5jb20lMkZhdmF0YXJzJTJGYWsucG5nIiwidXBkYXRlZF9hdCI6IjIwMTktMDQtMDlUMDM6MDA6MzQuMjEwWiIsImVtYWlsIjoiYWtpbm9uaWt1QGdtYWlsLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJpc3MiOiJodHRwczovL2ZuemMtdGVzdC5hdS5hdXRoMC5jb20vIiwic3ViIjoiYXV0aDB8NWMwOWY5NzlkZmIwNzI0ZTJiNmZmNzVjIiwiYXVkIjoiSE0yLWV4aWZ6eDVqU3FEOHVZbjYzaTVybW01Mk9HMTUiLCJpYXQiOjE1NTQ3Nzg4MzQsImV4cCI6MTU1NDgxNDgzNH0.TkL8OjaclPu-PpAZSecdY06ZR4VIvvd--CMJEemBgbs_OdFejoe4a0sfb3PdHjfs6EMbe0qFCnfZ3Ugy5ytASEkH2jZrTuZoSCmvXZl1DBOPsHb1qxW9lrdpJEDqLLm4Egur2nUDnzOtGy3PRwp_XJGFTUwKPuAjZEnpHexJAblPz69UwZ8lfZwhjEh5hz12HjX-Ob7VreKa-LdhAKpREeBKAMJF-_sormr6DJmkoB9k5CdihjLZqPC5v2ef2ItA8J1EBRsLzcqUfrwrGWOnMIgNQmCS7NBJTqIa-JIGY2_d9wvyWOzyLBwo1_ynqg8GlXiE1RMKAJszVwCbGtsntA\&quot; \&quot;https://fnzc-test.au.auth0.com/.well-known/jwks.json\&quot; \&quot;rs256\&quot;)&quot;, :offset 1128, :ns &quot;jwt-verify-jwks.core&quot;} {:command &quot;:profiles {:uberjar {:aot :all}}\n&quot;, :offset 33, :ns &quot;user&quot;} {:command &quot;(jwt_verify_jwks )&quot;, :offset 18, :ns &quot;user&quot;} {:command &quot;(in-ns '[jwt-verify-jwks.core])&quot;, :offset 31, :ns &quot;user&quot;} {:command &quot;(in-ns '[jwt_verify_jwks.core])&quot;, :offset 31, :ns &quot;user&quot;} {:command &quot;(in-ns 'jwt_verify_jwks.core)&quot;, :offset 29, :ns &quot;user&quot;} {:command &quot;(jwt-validate-jwks {\&quot;eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IlJrSXpNRUZCUVRrMU1qbERNRFV4UWpZeE5qWTFPVEpCT0RBeVFVWXdSVGswUmtFNVF6SkZRdyJ9.eyJuaWNrbmFtZSI6ImFraW5vbmlrdSIsIm5hbWUiOiJha2lub25pa3VAZ21haWwuY29tIiwicGljdHVyZSI6Imh0dHBzOi8vcy5ncmF2YXRhci5jb20vYXZhdGFyLzgwMDFhZGZkMWNkYzRlOGE3NGI2Yzg4YzM0OWFmMTAyP3M9NDgwJnI9cGcmZD1odHRwcyUzQSUyRiUyRmNkbi5hdXRoMC5jb20lMkZhdmF0YXJzJTJGYWsucG5nIiwidXBkYXRlZF9hdCI6IjIwMTktMDQtMTFUMjM6MzE6NDYuMzU5WiIsImVtYWlsIjoiYWtpbm9uaWt1QGdtYWlsLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJpc3MiOiJodHRwczovL2ZuemMtdGVzdC5hdS5hdXRoMC5jb20vIiwic3ViIjoiYXV0aDB8NWMwOWY5NzlkZmIwNzI0ZTJiNmZmNzVjIiwiYXVkIjoiSE0yLWV4aWZ6eDVqU3FEOHVZbjYzaTVybW01Mk9HMTUiLCJpYXQiOjE1NTUwMjU1MDYsImV4cCI6MTU1NTA2MTUwNn0.EeRGfIAD80LT7K2WfnxT6pcMxIaFwJ347ITz5WK6e5x8u1zsUnjDF89BoRLL0PRJDfqa8V7rx-e6oR2-16BlyzHvsZKPY9nL5jbxYx20cxpn1VZqVXJ5ce0Nz6WGZ1QgxZMt-JNpn6rxLHXQr9pEVTslbqvUwztEXIZ69-ntL0DL-2eoP0jphWf_vyVL6vq9-tddl4NHXIt309sMNz92R8324uC2hHvoN4i3cyK3JhGLmFqpQsT7M9QprBTf53JW_YiWwyKyx1JadMLWp3rBrG0o3xd8qSIIJ0LZrwm_q8sS_wg6mZ7gF6VpoGJQSuW2Gl9ZdFDVe5g8v0fJaMfUmA\&quot;} \&quot;https://fnzc-test.au.auth0.com/.well-known/jwks.json\&quot; \&quot;rs256\&quot;)&quot;, :offset 1130, :ns &quot;jwt-verify-jwks.core&quot;} {:command &quot;(in-ns 'jwt-verify-jwks)&quot;, :offset 24, :ns &quot;jwt_verify_jwks.core&quot;} {:command &quot;(in-ns 'jwt-verify-jwks.core)&quot;, :offset 29, :ns &quot;jwt-verify-jwks&quot;} {:command &quot;(jwt-validate-jwks \&quot;eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IlJrSXpNRUZCUVRrMU1qbERNRFV4UWpZeE5qWTFPVEpCT0RBeVFVWXdSVGswUmtFNVF6SkZRdyJ9.eyJuaWNrbmFtZSI6ImFraW5vbmlrdSIsIm5hbWUiOiJha2lub25pa3VAZ21haWwuY29tIiwicGljdHVyZSI6Imh0dHBzOi8vcy5ncmF2YXRhci5jb20vYXZhdGFyLzgwMDFhZGZkMWNkYzRlOGE3NGI2Yzg4YzM0OWFmMTAyP3M9NDgwJnI9cGcmZD1odHRwcyUzQSUyRiUyRmNkbi5hdXRoMC5jb20lMkZhdmF0YXJzJTJGYWsucG5nIiwidXBkYXRlZF9hdCI6IjIwMTktMDQtMTFUMjM6MzE6NDYuMzU5WiIsImVtYWlsIjoiYWtpbm9uaWt1QGdtYWlsLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJpc3MiOiJodHRwczovL2ZuemMtdGVzdC5hdS5hdXRoMC5jb20vIiwic3ViIjoiYXV0aDB8NWMwOWY5NzlkZmIwNzI0ZTJiNmZmNzVjIiwiYXVkIjoiSE0yLWV4aWZ6eDVqU3FEOHVZbjYzaTVybW01Mk9HMTUiLCJpYXQiOjE1NTUwMjU1MDYsImV4cCI6MTU1NTA2MTUwNn0.EeRGfIAD80LT7K2WfnxT6pcMxIaFwJ347ITz5WK6e5x8u1zsUnjDF89BoRLL0PRJDfqa8V7rx-e6oR2-16BlyzHvsZKPY9nL5jbxYx20cxpn1VZqVXJ5ce0Nz6WGZ1QgxZMt-JNpn6rxLHXQr9pEVTslbqvUwztEXIZ69-ntL0DL-2eoP0jphWf_vyVL6vq9-tddl4NHXIt309sMNz92R8324uC2hHvoN4i3cyK3JhGLmFqpQsT7M9QprBTf53JW_YiWwyKyx1JadMLWp3rBrG0o3xd8qSIIJ0LZrwm_q8sS_wg6mZ7gF6VpoGJQSuW2Gl9ZdFDVe5g8v0fJaMfUmA\&quot; \&quot;https://fnzc-test.au.auth0.com/.well-known/jwks.json\&quot; \&quot;rs256\&quot;)&quot;, :offset 1128, :ns &quot;jwt-verify-jwks.core&quot;} {:command &quot;(go)&quot;, :offset 4, :ns &quot;user&quot;} {:command &quot;(jwt-validate-jwks token \&quot;https://jarden.au.auth0.com/\&quot; \&quot;rs256\&quot;)&quot;, :offset 64, :ns &quot;jwt-verify-jwks.core&quot;} {:command &quot;(jwt-validate-jwks token \&quot;https://jarden.au.auth0.com\&quot; \&quot;rs256\&quot;)&quot;, :offset 63, :ns &quot;jwt-verify-jwks.core&quot;} {:command &quot;(jwt-validate-jwks token \&quot;https://jarden.au.auth0.com/.well-known/\&quot; \&quot;rs256\&quot;)&quot;, :offset 76, :ns &quot;jwt-verify-jwks.core&quot;} {:command &quot;(defn- get-jwks\n  [url]\n  (try\n    (let [data (client/get url)\n          body (:body data)]\n      (prn body)\n      (json/parse-string body true))\n    (catch Exception e (str \&quot;Error with the JWKS: \&quot; (.getMessage e)))))&quot;, :offset 217, :ns &quot;jwt-verify-jwks.core&quot;} {:command &quot;(jwt-validate-jwks token \&quot;https://jarden.au.auth0.com/.well-known/jwks.json\&quot; \&quot;rs256\&quot;)&quot;, :offset 85, :ns &quot;jwt-verify-jwks.core&quot;} {:command &quot;(client/get \&quot;https://jarden.au.auth0.com/userinfo\&quot; :headers {\&quot;Authorization\&quot; (str \&quot;Bearer \&quot; token)})&quot;, :offset 100, :ns &quot;jwt-verify-jwks.core&quot;} {:command &quot;(client/get \&quot;https://jarden.au.auth0.com/userinfo\&quot; {:headers {\&quot;Authorization\&quot; (str \&quot;Bearer \&quot; token)}})&quot;, :offset 102, :ns &quot;jwt-verify-jwks.core&quot;} {:command &quot;#(jwt-&gt;user token \&quot;jarden.au.auth0.com\&quot;)&quot;, :offset 40, :ns &quot;jwt-verify-jwks.core&quot;} {:command &quot;(jwt-&gt;user token \&quot;jarden.au.auth0.com\&quot;)&quot;, :offset 39, :ns &quot;jwt-verify-jwks.core&quot;} {:command &quot;(jwt-&gt;auth0-user token \&quot;jarden.au.auth0.com\&quot;)&quot;, :offset 45, :ns &quot;jwt-verify-jwks.core&quot;}], :remote []}}</component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -321,7 +252,7 @@
     <frame x="96" y="82" width="1969" height="1417" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.117280744" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.117280744" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -336,7 +267,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32981133" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.5041509" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="10" />
@@ -404,15 +335,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/jwt_verify_jwks/core.clj">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        <state relative-caret-position="343">
+          <caret line="49" column="46" lean-forward="true" selection-start-line="49" selection-start-column="46" selection-end-line="49" selection-end-column="46" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/project.clj">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
