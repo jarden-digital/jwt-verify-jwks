@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a58e8afb-5630-44c6-bf93-4005cb8b0240" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/sbt.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/CHANGELOG.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jwt-verify-jwks.iml" beforeDir="false" afterPath="$PROJECT_DIR$/jwt-verify-jwks.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jwt_verify_jwks/core.clj" beforeDir="false" afterPath="$PROJECT_DIR$/src/jwt_verify_jwks/core.clj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,17 +20,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/project.clj">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="33" selection-start-column="33" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/jwt_verify_jwks/core.clj">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="795">
-              <caret line="53" column="53" selection-start-line="53" selection-start-column="53" selection-end-line="53" selection-end-column="53" />
+            <state relative-caret-position="420">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
             </state>
           </provider>
         </entry>
@@ -44,18 +29,18 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LICENSE">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
+            <state relative-caret-position="80">
               <caret line="4" column="41" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CHANGELOG.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="135">
-                <caret line="9" column="62" selection-start-line="9" selection-start-column="62" selection-end-line="9" selection-end-column="62" />
+              <first_editor relative-caret-position="400">
+                <caret line="20" selection-start-line="20" selection-end-line="20" />
               </first_editor>
               <second_editor />
             </state>
@@ -66,10 +51,28 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="495">
+              <first_editor relative-caret-position="660">
                 <caret line="33" column="64" selection-start-line="33" selection-start-column="64" selection-end-line="33" selection-end-column="64" />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/jwt_verify_jwks/core.clj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="343">
+              <caret line="49" column="46" lean-forward="true" selection-start-line="49" selection-start-column="46" selection-end-line="49" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
         </entry>
@@ -88,16 +91,18 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/LICENSE" />
-        <option value="$PROJECT_DIR$/project.clj" />
-        <option value="$PROJECT_DIR$/src/jwt_verify_jwks/core.clj" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/CHANGELOG.md" />
+        <option value="$PROJECT_DIR$/src/jwt_verify_jwks/core.clj" />
+        <option value="$PROJECT_DIR$/project.clj" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
-    <option name="width" value="2560" />
+    <option name="x" value="96" />
+    <option name="y" value="82" />
+    <option name="width" value="1969" />
     <option name="height" value="1417" />
   </component>
   <component name="ProjectView">
@@ -106,7 +111,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -114,32 +118,11 @@
               <item name="jwt-verify-jwks" type="b2602c69:ProjectViewProjectNode" />
               <item name="jwt-verify-jwks" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="jwt-verify-jwks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jwt-verify-jwks" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jwt-verify-jwks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jwt-verify-jwks" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="jwt_verify_jwks" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jwt-verify-jwks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jwt-verify-jwks" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jwt-verify-jwks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jwt-verify-jwks" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="jwt_verify_jwks" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -152,10 +135,13 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/bin/node" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="http.proxy" />
   </component>
-  <component name="ReplState" timestamp="1555035398690">{:repl-history {:ide [], :local [{:command &quot;(jwt-validate-jwks \&quot;eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IlJrSXpNRUZCUVRrMU1qbERNRFV4UWpZeE5qWTFPVEpCT0RBeVFVWXdSVGswUmtFNVF6SkZRdyJ9.eyJuaWNrbmFtZSI6ImFraW5vbmlrdSIsIm5hbWUiOiJha2lub25pa3VAZ21haWwuY29tIiwicGljdHVyZSI6Imh0dHBzOi8vcy5ncmF2YXRhci5jb20vYXZhdGFyLzgwMDFhZGZkMWNkYzRlOGE3NGI2Yzg4YzM0OWFmMTAyP3M9NDgwJnI9cGcmZD1odHRwcyUzQSUyRiUyRmNkbi5hdXRoMC5jb20lMkZhdmF0YXJzJTJGYWsucG5nIiwidXBkYXRlZF9hdCI6IjIwMTktMDQtMDlUMDM6MDA6MzQuMjEwWiIsImVtYWlsIjoiYWtpbm9uaWt1QGdtYWlsLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJpc3MiOiJodHRwczovL2ZuemMtdGVzdC5hdS5hdXRoMC5jb20vIiwic3ViIjoiYXV0aDB8NWMwOWY5NzlkZmIwNzI0ZTJiNmZmNzVjIiwiYXVkIjoiSE0yLWV4aWZ6eDVqU3FEOHVZbjYzaTVybW01Mk9HMTUiLCJpYXQiOjE1NTQ3Nzg4MzQsImV4cCI6MTU1NDgxNDgzNH0.TkL8OjaclPu-PpAZSecdY06ZR4VIvvd--CMJEemBgbs_OdFejoe4a0sfb3PdHjfs6EMbe0qFCnfZ3Ugy5ytASEkH2jZrTuZoSCmvXZl1DBOPsHb1qxW9lrdpJEDqLLm4Egur2nUDnzOtGy3PRwp_XJGFTUwKPuAjZEnpHexJAblPz69UwZ8lfZwhjEh5hz12HjX-Ob7VreKa-LdhAKpREeBKAMJF-_sormr6DJmkoB9k5CdihjLZqPC5v2ef2ItA8J1EBRsLzcqUfrwrGWOnMIgNQmCS7NBJTqIa-JIGY2_d9wvyWOzyLBwo1_ynqg8GlXiE1RMKAJszVwCbGtsntA\&quot; \&quot;https://fnzc-test.au.auth0.com/.well-known/jwks.json\&quot; \&quot;rs256\&quot;)&quot;, :offset 1128, :ns &quot;jwt-verify-jwks.core&quot;} {:command &quot;:profiles {:uberjar {:aot :all}}\n&quot;, :offset 33, :ns &quot;user&quot;} {:command &quot;(jwt_verify_jwks )&quot;, :offset 18, :ns &quot;user&quot;} {:command &quot;(in-ns '[jwt-verify-jwks.core])&quot;, :offset 31, :ns &quot;user&quot;} {:command &quot;(in-ns '[jwt_verify_jwks.core])&quot;, :offset 31, :ns &quot;user&quot;} {:command &quot;(in-ns 'jwt_verify_jwks.core)&quot;, :offset 29, :ns &quot;user&quot;} {:command &quot;(jwt-validate-jwks {\&quot;eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IlJrSXpNRUZCUVRrMU1qbERNRFV4UWpZeE5qWTFPVEpCT0RBeVFVWXdSVGswUmtFNVF6SkZRdyJ9.eyJuaWNrbmFtZSI6ImFraW5vbmlrdSIsIm5hbWUiOiJha2lub25pa3VAZ21haWwuY29tIiwicGljdHVyZSI6Imh0dHBzOi8vcy5ncmF2YXRhci5jb20vYXZhdGFyLzgwMDFhZGZkMWNkYzRlOGE3NGI2Yzg4YzM0OWFmMTAyP3M9NDgwJnI9cGcmZD1odHRwcyUzQSUyRiUyRmNkbi5hdXRoMC5jb20lMkZhdmF0YXJzJTJGYWsucG5nIiwidXBkYXRlZF9hdCI6IjIwMTktMDQtMTFUMjM6MzE6NDYuMzU5WiIsImVtYWlsIjoiYWtpbm9uaWt1QGdtYWlsLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJpc3MiOiJodHRwczovL2ZuemMtdGVzdC5hdS5hdXRoMC5jb20vIiwic3ViIjoiYXV0aDB8NWMwOWY5NzlkZmIwNzI0ZTJiNmZmNzVjIiwiYXVkIjoiSE0yLWV4aWZ6eDVqU3FEOHVZbjYzaTVybW01Mk9HMTUiLCJpYXQiOjE1NTUwMjU1MDYsImV4cCI6MTU1NTA2MTUwNn0.EeRGfIAD80LT7K2WfnxT6pcMxIaFwJ347ITz5WK6e5x8u1zsUnjDF89BoRLL0PRJDfqa8V7rx-e6oR2-16BlyzHvsZKPY9nL5jbxYx20cxpn1VZqVXJ5ce0Nz6WGZ1QgxZMt-JNpn6rxLHXQr9pEVTslbqvUwztEXIZ69-ntL0DL-2eoP0jphWf_vyVL6vq9-tddl4NHXIt309sMNz92R8324uC2hHvoN4i3cyK3JhGLmFqpQsT7M9QprBTf53JW_YiWwyKyx1JadMLWp3rBrG0o3xd8qSIIJ0LZrwm_q8sS_wg6mZ7gF6VpoGJQSuW2Gl9ZdFDVe5g8v0fJaMfUmA\&quot;} \&quot;https://fnzc-test.au.auth0.com/.well-known/jwks.json\&quot; \&quot;rs256\&quot;)&quot;, :offset 1130, :ns &quot;jwt-verify-jwks.core&quot;} {:command &quot;(in-ns 'jwt-verify-jwks)&quot;, :offset 24, :ns &quot;jwt_verify_jwks.core&quot;} {:command &quot;(in-ns 'jwt-verify-jwks.core)&quot;, :offset 29, :ns &quot;jwt-verify-jwks&quot;} {:command &quot;(jwt-validate-jwks \&quot;eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IlJrSXpNRUZCUVRrMU1qbERNRFV4UWpZeE5qWTFPVEpCT0RBeVFVWXdSVGswUmtFNVF6SkZRdyJ9.eyJuaWNrbmFtZSI6ImFraW5vbmlrdSIsIm5hbWUiOiJha2lub25pa3VAZ21haWwuY29tIiwicGljdHVyZSI6Imh0dHBzOi8vcy5ncmF2YXRhci5jb20vYXZhdGFyLzgwMDFhZGZkMWNkYzRlOGE3NGI2Yzg4YzM0OWFmMTAyP3M9NDgwJnI9cGcmZD1odHRwcyUzQSUyRiUyRmNkbi5hdXRoMC5jb20lMkZhdmF0YXJzJTJGYWsucG5nIiwidXBkYXRlZF9hdCI6IjIwMTktMDQtMTFUMjM6MzE6NDYuMzU5WiIsImVtYWlsIjoiYWtpbm9uaWt1QGdtYWlsLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJpc3MiOiJodHRwczovL2ZuemMtdGVzdC5hdS5hdXRoMC5jb20vIiwic3ViIjoiYXV0aDB8NWMwOWY5NzlkZmIwNzI0ZTJiNmZmNzVjIiwiYXVkIjoiSE0yLWV4aWZ6eDVqU3FEOHVZbjYzaTVybW01Mk9HMTUiLCJpYXQiOjE1NTUwMjU1MDYsImV4cCI6MTU1NTA2MTUwNn0.EeRGfIAD80LT7K2WfnxT6pcMxIaFwJ347ITz5WK6e5x8u1zsUnjDF89BoRLL0PRJDfqa8V7rx-e6oR2-16BlyzHvsZKPY9nL5jbxYx20cxpn1VZqVXJ5ce0Nz6WGZ1QgxZMt-JNpn6rxLHXQr9pEVTslbqvUwztEXIZ69-ntL0DL-2eoP0jphWf_vyVL6vq9-tddl4NHXIt309sMNz92R8324uC2hHvoN4i3cyK3JhGLmFqpQsT7M9QprBTf53JW_YiWwyKyx1JadMLWp3rBrG0o3xd8qSIIJ0LZrwm_q8sS_wg6mZ7gF6VpoGJQSuW2Gl9ZdFDVe5g8v0fJaMfUmA\&quot; \&quot;https://fnzc-test.au.auth0.com/.well-known/jwks.json\&quot; \&quot;rs256\&quot;)&quot;, :offset 1128, :ns &quot;jwt-verify-jwks.core&quot;}], :remote []}}</component>
+  <component name="ReplState" timestamp="1566267100955">{:repl-history {:ide [], :local [{:command &quot;(jwt-validate-jwks \&quot;eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IlJrSXpNRUZCUVRrMU1qbERNRFV4UWpZeE5qWTFPVEpCT0RBeVFVWXdSVGswUmtFNVF6SkZRdyJ9.eyJuaWNrbmFtZSI6ImFraW5vbmlrdSIsIm5hbWUiOiJha2lub25pa3VAZ21haWwuY29tIiwicGljdHVyZSI6Imh0dHBzOi8vcy5ncmF2YXRhci5jb20vYXZhdGFyLzgwMDFhZGZkMWNkYzRlOGE3NGI2Yzg4YzM0OWFmMTAyP3M9NDgwJnI9cGcmZD1odHRwcyUzQSUyRiUyRmNkbi5hdXRoMC5jb20lMkZhdmF0YXJzJTJGYWsucG5nIiwidXBkYXRlZF9hdCI6IjIwMTktMDQtMDlUMDM6MDA6MzQuMjEwWiIsImVtYWlsIjoiYWtpbm9uaWt1QGdtYWlsLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJpc3MiOiJodHRwczovL2ZuemMtdGVzdC5hdS5hdXRoMC5jb20vIiwic3ViIjoiYXV0aDB8NWMwOWY5NzlkZmIwNzI0ZTJiNmZmNzVjIiwiYXVkIjoiSE0yLWV4aWZ6eDVqU3FEOHVZbjYzaTVybW01Mk9HMTUiLCJpYXQiOjE1NTQ3Nzg4MzQsImV4cCI6MTU1NDgxNDgzNH0.TkL8OjaclPu-PpAZSecdY06ZR4VIvvd--CMJEemBgbs_OdFejoe4a0sfb3PdHjfs6EMbe0qFCnfZ3Ugy5ytASEkH2jZrTuZoSCmvXZl1DBOPsHb1qxW9lrdpJEDqLLm4Egur2nUDnzOtGy3PRwp_XJGFTUwKPuAjZEnpHexJAblPz69UwZ8lfZwhjEh5hz12HjX-Ob7VreKa-LdhAKpREeBKAMJF-_sormr6DJmkoB9k5CdihjLZqPC5v2ef2ItA8J1EBRsLzcqUfrwrGWOnMIgNQmCS7NBJTqIa-JIGY2_d9wvyWOzyLBwo1_ynqg8GlXiE1RMKAJszVwCbGtsntA\&quot; \&quot;https://fnzc-test.au.auth0.com/.well-known/jwks.json\&quot; \&quot;rs256\&quot;)&quot;, :offset 1128, :ns &quot;jwt-verify-jwks.core&quot;} {:command &quot;:profiles {:uberjar {:aot :all}}\n&quot;, :offset 33, :ns &quot;user&quot;} {:command &quot;(jwt_verify_jwks )&quot;, :offset 18, :ns &quot;user&quot;} {:command &quot;(in-ns '[jwt-verify-jwks.core])&quot;, :offset 31, :ns &quot;user&quot;} {:command &quot;(in-ns '[jwt_verify_jwks.core])&quot;, :offset 31, :ns &quot;user&quot;} {:command &quot;(in-ns 'jwt_verify_jwks.core)&quot;, :offset 29, :ns &quot;user&quot;} {:command &quot;(jwt-validate-jwks {\&quot;eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IlJrSXpNRUZCUVRrMU1qbERNRFV4UWpZeE5qWTFPVEpCT0RBeVFVWXdSVGswUmtFNVF6SkZRdyJ9.eyJuaWNrbmFtZSI6ImFraW5vbmlrdSIsIm5hbWUiOiJha2lub25pa3VAZ21haWwuY29tIiwicGljdHVyZSI6Imh0dHBzOi8vcy5ncmF2YXRhci5jb20vYXZhdGFyLzgwMDFhZGZkMWNkYzRlOGE3NGI2Yzg4YzM0OWFmMTAyP3M9NDgwJnI9cGcmZD1odHRwcyUzQSUyRiUyRmNkbi5hdXRoMC5jb20lMkZhdmF0YXJzJTJGYWsucG5nIiwidXBkYXRlZF9hdCI6IjIwMTktMDQtMTFUMjM6MzE6NDYuMzU5WiIsImVtYWlsIjoiYWtpbm9uaWt1QGdtYWlsLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJpc3MiOiJodHRwczovL2ZuemMtdGVzdC5hdS5hdXRoMC5jb20vIiwic3ViIjoiYXV0aDB8NWMwOWY5NzlkZmIwNzI0ZTJiNmZmNzVjIiwiYXVkIjoiSE0yLWV4aWZ6eDVqU3FEOHVZbjYzaTVybW01Mk9HMTUiLCJpYXQiOjE1NTUwMjU1MDYsImV4cCI6MTU1NTA2MTUwNn0.EeRGfIAD80LT7K2WfnxT6pcMxIaFwJ347ITz5WK6e5x8u1zsUnjDF89BoRLL0PRJDfqa8V7rx-e6oR2-16BlyzHvsZKPY9nL5jbxYx20cxpn1VZqVXJ5ce0Nz6WGZ1QgxZMt-JNpn6rxLHXQr9pEVTslbqvUwztEXIZ69-ntL0DL-2eoP0jphWf_vyVL6vq9-tddl4NHXIt309sMNz92R8324uC2hHvoN4i3cyK3JhGLmFqpQsT7M9QprBTf53JW_YiWwyKyx1JadMLWp3rBrG0o3xd8qSIIJ0LZrwm_q8sS_wg6mZ7gF6VpoGJQSuW2Gl9ZdFDVe5g8v0fJaMfUmA\&quot;} \&quot;https://fnzc-test.au.auth0.com/.well-known/jwks.json\&quot; \&quot;rs256\&quot;)&quot;, :offset 1130, :ns &quot;jwt-verify-jwks.core&quot;} {:command &quot;(in-ns 'jwt-verify-jwks)&quot;, :offset 24, :ns &quot;jwt_verify_jwks.core&quot;} {:command &quot;(in-ns 'jwt-verify-jwks.core)&quot;, :offset 29, :ns &quot;jwt-verify-jwks&quot;} {:command &quot;(jwt-validate-jwks \&quot;eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IlJrSXpNRUZCUVRrMU1qbERNRFV4UWpZeE5qWTFPVEpCT0RBeVFVWXdSVGswUmtFNVF6SkZRdyJ9.eyJuaWNrbmFtZSI6ImFraW5vbmlrdSIsIm5hbWUiOiJha2lub25pa3VAZ21haWwuY29tIiwicGljdHVyZSI6Imh0dHBzOi8vcy5ncmF2YXRhci5jb20vYXZhdGFyLzgwMDFhZGZkMWNkYzRlOGE3NGI2Yzg4YzM0OWFmMTAyP3M9NDgwJnI9cGcmZD1odHRwcyUzQSUyRiUyRmNkbi5hdXRoMC5jb20lMkZhdmF0YXJzJTJGYWsucG5nIiwidXBkYXRlZF9hdCI6IjIwMTktMDQtMTFUMjM6MzE6NDYuMzU5WiIsImVtYWlsIjoiYWtpbm9uaWt1QGdtYWlsLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJpc3MiOiJodHRwczovL2ZuemMtdGVzdC5hdS5hdXRoMC5jb20vIiwic3ViIjoiYXV0aDB8NWMwOWY5NzlkZmIwNzI0ZTJiNmZmNzVjIiwiYXVkIjoiSE0yLWV4aWZ6eDVqU3FEOHVZbjYzaTVybW01Mk9HMTUiLCJpYXQiOjE1NTUwMjU1MDYsImV4cCI6MTU1NTA2MTUwNn0.EeRGfIAD80LT7K2WfnxT6pcMxIaFwJ347ITz5WK6e5x8u1zsUnjDF89BoRLL0PRJDfqa8V7rx-e6oR2-16BlyzHvsZKPY9nL5jbxYx20cxpn1VZqVXJ5ce0Nz6WGZ1QgxZMt-JNpn6rxLHXQr9pEVTslbqvUwztEXIZ69-ntL0DL-2eoP0jphWf_vyVL6vq9-tddl4NHXIt309sMNz92R8324uC2hHvoN4i3cyK3JhGLmFqpQsT7M9QprBTf53JW_YiWwyKyx1JadMLWp3rBrG0o3xd8qSIIJ0LZrwm_q8sS_wg6mZ7gF6VpoGJQSuW2Gl9ZdFDVe5g8v0fJaMfUmA\&quot; \&quot;https://fnzc-test.au.auth0.com/.well-known/jwks.json\&quot; \&quot;rs256\&quot;)&quot;, :offset 1128, :ns &quot;jwt-verify-jwks.core&quot;} {:command &quot;(go)&quot;, :offset 4, :ns &quot;user&quot;} {:command &quot;(jwt-validate-jwks token \&quot;https://jarden.au.auth0.com/\&quot; \&quot;rs256\&quot;)&quot;, :offset 64, :ns &quot;jwt-verify-jwks.core&quot;} {:command &quot;(jwt-validate-jwks token \&quot;https://jarden.au.auth0.com\&quot; \&quot;rs256\&quot;)&quot;, :offset 63, :ns &quot;jwt-verify-jwks.core&quot;} {:command &quot;(jwt-validate-jwks token \&quot;https://jarden.au.auth0.com/.well-known/\&quot; \&quot;rs256\&quot;)&quot;, :offset 76, :ns &quot;jwt-verify-jwks.core&quot;} {:command &quot;(defn- get-jwks\n  [url]\n  (try\n    (let [data (client/get url)\n          body (:body data)]\n      (prn body)\n      (json/parse-string body true))\n    (catch Exception e (str \&quot;Error with the JWKS: \&quot; (.getMessage e)))))&quot;, :offset 217, :ns &quot;jwt-verify-jwks.core&quot;} {:command &quot;(jwt-validate-jwks token \&quot;https://jarden.au.auth0.com/.well-known/jwks.json\&quot; \&quot;rs256\&quot;)&quot;, :offset 85, :ns &quot;jwt-verify-jwks.core&quot;} {:command &quot;(client/get \&quot;https://jarden.au.auth0.com/userinfo\&quot; :headers {\&quot;Authorization\&quot; (str \&quot;Bearer \&quot; token)})&quot;, :offset 100, :ns &quot;jwt-verify-jwks.core&quot;} {:command &quot;(client/get \&quot;https://jarden.au.auth0.com/userinfo\&quot; {:headers {\&quot;Authorization\&quot; (str \&quot;Bearer \&quot; token)}})&quot;, :offset 102, :ns &quot;jwt-verify-jwks.core&quot;} {:command &quot;#(jwt-&gt;user token \&quot;jarden.au.auth0.com\&quot;)&quot;, :offset 40, :ns &quot;jwt-verify-jwks.core&quot;} {:command &quot;(jwt-&gt;user token \&quot;jarden.au.auth0.com\&quot;)&quot;, :offset 39, :ns &quot;jwt-verify-jwks.core&quot;} {:command &quot;(jwt-&gt;auth0-user token \&quot;jarden.au.auth0.com\&quot;)&quot;, :offset 45, :ns &quot;jwt-verify-jwks.core&quot;}], :remote []}}</component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -169,6 +155,15 @@
     </option>
   </component>
   <component name="RunManager">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -226,15 +221,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
-      <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
-      <option name="PROGRAM_PARAMETERS" />
-      <predefined_log_file enabled="true" id="idea.log" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
   </component>
   <component name="SbtLocalSettings">
     <option name="projectSyncType">
@@ -263,16 +249,17 @@
     <option name="totallyTimeSpent" value="9148000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="2560" height="1417" extended-state="6" />
+    <frame x="96" y="82" width="1969" height="1417" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25178713" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.117280744" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="DB Browser" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -280,12 +267,13 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.5041509" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="10" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="bottom" id="DB Execution Console" order="13" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -293,66 +281,152 @@
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="right" id="Database" order="6" />
-      <window_info anchor="right" id="Leiningen" order="7" sideWeight="0.29132074" visible="true" weight="0.22716442" />
+      <window_info anchor="right" id="Leiningen" order="7" sideWeight="0.2894144" weight="0.29060715" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info anchor="right" id="Theme Preview" order="9" />
-      <window_info active="true" anchor="right" id="REPL" order="10" sideWeight="0.70867926" side_tool="true" visible="true" weight="0.22716442" />
+      <window_info anchor="right" id="REPL" order="10" sideWeight="0.7105856" side_tool="true" visible="true" weight="0.29060715" />
+      <window_info anchor="right" id="Key Promoter X" order="11" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test/jwt_verify_jwks/core_test.clj">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project.clj">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="33" selection-start-column="33" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LICENSE">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
+        <state relative-caret-position="80">
           <caret line="4" column="41" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jwt_verify_jwks/core.clj">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="795">
-          <caret line="53" column="53" selection-start-line="53" selection-start-column="53" selection-end-line="53" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="495">
-            <caret line="33" column="64" selection-start-line="33" selection-start-column="64" selection-end-line="33" selection-end-column="64" />
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CHANGELOG.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="135">
-            <caret line="9" column="62" selection-start-line="9" selection-start-column="62" selection-end-line="9" selection-end-column="62" />
+          <first_editor relative-caret-position="400">
+            <caret line="20" selection-start-line="20" selection-end-line="20" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="660">
+            <caret line="33" column="64" selection-start-line="33" selection-start-column="64" selection-end-line="33" selection-end-column="64" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/clj-http/clj-http/3.10.0/clj-http-3.10.0.jar!/clj_http/client.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="1178" column="21" lean-forward="true" selection-start-line="1178" selection-start-column="21" selection-end-line="1178" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/jwt_verify_jwks/core_test.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jwt_verify_jwks/core.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="49" column="46" lean-forward="true" selection-start-line="49" selection-start-column="46" selection-end-line="49" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
           <splitter-proportions>
             <option name="proportions">
               <list>

@@ -4,8 +4,8 @@
             [cheshire.core :as json]
             [clj-crypto.core :as crypto]
             [clj-http.client :as client]
-            [clojure.string :as str]
-            [compojure.core :refer :all]))
+            [clojure.string :as str])
+  (:gen-class))
 
 
 (defn- extract-jwt
@@ -57,3 +57,13 @@
 (defn jwt-validate-jwks
   [jwt jwks-url alg]
   (validate-jwt jwt jwks-url alg))
+
+
+(defn jwt->auth0-user [jwt auth0-domain]
+  (let [response (client/get
+                   (str "https://" auth0-domain "/userinfo")
+                   {:headers {"Authorization" (str "Bearer " jwt)}})]
+    (if (= 200 (:status response))
+      (json/parse-string (:body response) true)
+      (response))))
+
